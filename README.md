@@ -1,3 +1,3 @@
 ﻿# FogView Readme
-Créer par [Mattèo Gauthier](https://twitter.com/mattixnow), avec [Lynogames](https://twitter.com/arthur_crbr).
+Créer par [Arthur_crbr](https://twitter.com/arthur_crbr) en collaboration avec [Mattèo Gautier](https://twitter.com/mattixnow).<br/>
 COPYRIGHT&#169; FogView
